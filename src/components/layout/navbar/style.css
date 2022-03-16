@@ -1,0 +1,25 @@
+.nav-bar-style{
+    background: #F2B138;
+    align-items: center;
+}
+
+.navbarlink {
+    color: white;
+}
+
+.nav-bar-logo {
+    margin-top: auto;
+    
+    width: 70px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+    position: relative;
+}
+
+h6 {
+    margin-top: auto;
+    padding-left: 200px;
+    
+    color: white; 
+}

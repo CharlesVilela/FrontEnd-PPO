@@ -1,0 +1,8 @@
+.footer-component-card {
+    height: 300px;
+    bottom: -600px;
+    
+    background: #F2B138; 
+    color: white;
+    marginTop: 350px;
+}
