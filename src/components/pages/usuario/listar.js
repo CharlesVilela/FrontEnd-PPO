@@ -18,6 +18,7 @@ const ListaUsuarios = function () {
 
   return (
     <>
+      <h1>Perfil</h1>
       <ListGroup>
         {usuarios.map((row) => (
           <ListGroup.Item>{row.email}</ListGroup.Item>

@@ -5,3 +5,26 @@
 Button {
     background: white;
 }
+
+.div-barra-lateral {
+    width: 150px;
+    height: 720px;
+
+    text-align: center;
+
+    border: 1px solid black;
+}
+
+.div-meus-dispositivos {
+    margin-top: -720px;
+    margin-left: 150px;
+
+    border: 1px solid black;
+
+    text-align: center;
+}
+
+.div-list-dispositivos {
+    margin-left: 150px;
+}
+
